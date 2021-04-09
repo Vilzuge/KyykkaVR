@@ -4,6 +4,7 @@
 - WIP Prototype developed with Unreal Engine 4
 
 ![Screenshot](pic.PNG)
+![Screenshot](pic2.PNG)
 
 - Karttu and kyykkä modeled by Marcus Kindstedt
 - "Winter Forest Set"  by Patrick used to decorate a bit.
