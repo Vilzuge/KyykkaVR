@@ -1,7 +1,7 @@
 # KyykkaVR
 
 WIP Prototype developed with Unreal Engine 4
-https://www.youtube.com/watch?v=9AhbZOc7iEg
+- https://www.youtube.com/watch?v=9AhbZOc7iEg
 
 - Karttu and kyykkä modeled by Marcus Kindstedt
 - "Winter Forest Set"  by Patrick used to decorate a bit.
