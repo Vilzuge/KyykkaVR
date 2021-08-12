@@ -1,7 +1,8 @@
 # KyykkaVR
 
 - https://www.youtube.com/watch?v=9AhbZOc7iEg
-- WIP Prototype developed with Unreal Engine 4
+- https://www.youtube.com/watch?v=EKu40JlpBsY&t=80s
+- Prototype developed with Unreal Engine 4
 
 ![Screenshot](pic.PNG)
 ![Screenshot](pic2.PNG)
