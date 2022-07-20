@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.virtual-reality-bp-game-template-20280985.unrealeditor.exe",
+			"app_key": "application.generated.ue.virtual-reality-bp-game-template-18319896.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/Ville/Projects/GitHub/KyykkaVR/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "Virtual Reality BP Game Template-20280985 [UE Editor]"
+					"name": "Virtual Reality BP Game Template-18319896 [UE Editor]"
 				}
 			}
 		}
